@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="lab_number">Lab No. 35</string>
+    <string name="author">Performed by: Panchenko Vitalii</string>
+    <string name="thank_you">Thank you for your attention!</string>
+    <string name="first_fragment_title">First</string>
+    <string name="second_fragment_title">Second</string>
+    <string name="third_fragment_title">Third</string>
+</resources>
