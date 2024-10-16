@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Назва вашого додатку</string>
+    <string name="lab_number">Лабораторна №35</string>
+    <string name="author">Виконав: Панченко Віталій</string>
+    <string name="thank_you">Дякую за увагу!</string>
+    <string name="first_fragment_title">Перший</string>
+    <string name="second_fragment_title">Другий</string>
+    <string name="third_fragment_title">Третій</string>
+</resources>
